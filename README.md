@@ -1,4 +1,4 @@
-# barangay-mis-rfid
+# Online Barangay Resident Management System with RFID and SMS Notification
 Online Barangay Resident Management System with RFID and SMS Notification
 I'm unable to upload files since there's so much content
 
