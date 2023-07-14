@@ -1,5 +1,5 @@
 # Online Barangay Resident Management System with RFID and SMS Notification
-Online Barangay Resident Management System with RFID and SMS Notification
+Online Barangay Resident Management System with RFID and SMS Notification / Camera Functionality
 I'm unable to upload files since there's so much content
 
 ![82462147_105760064297314_4144422408738045952_n](https://github.com/kimmartelolives/barangay-mis-rfid/assets/61133176/702fd69b-10e7-4261-82a9-c28a184fb22b)
